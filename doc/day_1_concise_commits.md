@@ -25,7 +25,7 @@ impression of your commit.
 All line following the description are the body of the commit. Use the
 commit body to explain the reasoning behind your commit.
 
-## Tips for writing concise commit messages
+## Tips for Writing Concise Commit Messages
 - Keep commit descriptions to less than 80 characters (less is better). This is about the width of a default terminal.
 - Put additional explanation into the commit body
 - Write in the imperative tense rather then past or present (i.e., `Add day 1 material`, not `Added...`)
